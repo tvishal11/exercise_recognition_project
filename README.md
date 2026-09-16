@@ -2,6 +2,10 @@
 
 A real-time AI-powered exercise recognition system that uses **MediaPipe Pose** and **Machine Learning** to recognize exercises from webcam input and track workout performance.
 
+## 🎥 Demo
+
+[▶️ Watch FitAI Demo](https://youtu.be/8Q3VqyQrlBA)
+
 ## Features
 
 - Real-time exercise recognition
@@ -59,8 +63,8 @@ The goal of this project is to build a real-time AI fitness assistant that can r
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/tvishal11/exersice_recognition_project.git
-cd exersice_recognition_project
+git clone https://github.com/tvishal11/exercise_recognition_project.git
+cd exercise_recognition_project
 ```
 
 ### 2. Create virtual environment
